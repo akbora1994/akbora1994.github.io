@@ -152,6 +152,7 @@ img {
   justify-content: space-between;
   align-items: center;
   font-weight: var(--font-semi);
+  
 }
 @media screen and (max-width: 768px) {
   .nav-menu {
@@ -163,14 +164,19 @@ img {
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
+    
   }
 }
 .nav-item {
   margin-bottom: var(--mb-4);
+  color: white;
+  
 }
+
 .nav-link {
   position: relative;
   color: #fff;
+ 
 }
 .nav-link:hover {
   position: relative;
