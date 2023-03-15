@@ -490,6 +490,11 @@ img.man-icons {
   bottom: 0;
 }
 
+.movie{
+  height: 370px;
+  width: 540px;
+}
+
 /* ===== CONTACT =====*/
 .contact-input {
   width: 100%;
